@@ -1,2 +1,0 @@
-# reduxAsyncExample
-Created with CodeSandbox
